@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20171128185039" tvg-description="FUTBOL ECUATORIANO", GOLTV 1
+https://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest?cb=20171128185039" tvg-description="FUTBOL ECUATORIANO", GOLTV 2
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" tvg-description="FUTBOL", TUDN
+https://ul.cdn946.net:8443/hls/3zfi7n.m3u8?s=Bf4cUTTfv50LOwgX1lmPiA&e=1598502687
